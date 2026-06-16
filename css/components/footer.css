@@ -15,6 +15,16 @@
 	gap: 3rem;
 	margin-bottom: 3rem;
 }
+.footer__column{
+	margin: 15px;
+	padding: 5px;
+	width: 200px;
+	border: 2px solid white;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: center;
+	
+}
 
 .footer__column-title {
 	font-size: 1.125rem;
